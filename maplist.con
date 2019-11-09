@@ -1,0 +1,5 @@
+game.addLevel Battle_of_Britain GPM_COOP BF1942
+game.addLevel Battle_of_the_Bulge GPM_COOP BF1942
+game.addLevel Battleaxe GPM_COOP BF1942
+game.addLevel berlin GPM_COOP BF1942
+game.setCurrentLevel Battleaxe GPM_COOP BF1942
